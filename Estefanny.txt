@@ -1,0 +1,30 @@
+<html>
+
+
+
+<head>
+       <link rel="stylesheet" href="style.css" />
+       <title>Pobreflix</title>
+</head>
+
+
+
+<body>
+
+<header>POBREFLIXXXXXX</header>
+
+<div>
+<h1>Pobre deve fazer compra semanal ou mensal?</h1>
+<p>#finanças</p>
+</div>
+
+
+<div>
+https://youtu.be/gGbMaFCaOxk?si=0E1U69N1y8k7K1A3
+</div>
+
+</body>
+
+
+
+</html>S
